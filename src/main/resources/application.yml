@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: job-ready
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/JobReady
+    username: postgres
+    password: Minhanh010103
